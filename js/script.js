@@ -45,8 +45,8 @@ setInterval(() => work.next(), 3000);
 
 const skills = new Siema({
     perPage: {
-        768: 1,
-        992: 3,
+        768: 3,
+        992: 6,
     },
     selector: '.skill',
     duration: 200,

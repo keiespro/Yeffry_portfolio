@@ -91,7 +91,7 @@ a {
 
 .parallax {
 	background-color: #fff;
-	background-image: url(../img/home/page1.webp);
+	background-image: url(../img/home/1.png);
 	background-attachment: fixed;
 	height: 100vh;
 	background-position: center;
@@ -124,7 +124,7 @@ a {
 
 	.siema {
 		img {
-			width: 50%;
+			width: 25%;
 		}
 	}
 }
@@ -246,7 +246,7 @@ a {
 
 	.title {
 		color: black;
-		padding: 5px 0px;
+		padding: 15px 0px;
 	}
 
 	.project:hover .overlay {
@@ -617,6 +617,7 @@ a {
 		padding-bottom: 0px;
 	}
 }
+
 
 // Animation
 .animated {
